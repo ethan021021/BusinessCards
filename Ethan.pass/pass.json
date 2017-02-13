@@ -39,7 +39,7 @@
             {
                 "key" : "info",
                 "label" : "Resume Info",
-                "value" : "Tap icon in lower right corner to see more info",
+                "value" : "Tap (i) in lower right.",
                 "textAlignment" : "PKTextAlignmentLeft"
             },
             {
