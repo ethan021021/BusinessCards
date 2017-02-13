@@ -1,53 +1,53 @@
 {
     "formatVersion" : 1,
-    "passTypeIdentifier" : "pass.io.woodland021.businesscard",
+    "passTypeIdentifier" : "pass.co.uffelman.card",
     "organizationName" : "Bundler",
     "serialNumber" : "0x1337",
-    "teamIdentifier" : "M68K5K6P9P",
-    "description" : "Ethan Thomas",
+    "teamIdentifier" : "562U54SF42",
+    "description" : "Steve Uffelman",
     "generic" : {
         "primaryFields" : [
             {
                 "key" : "name",
                 "label" : "",
-                "value" : "iOS / Web Developer"
+                "value" : "iOS Developer"
             }
         ],
         "backFields": [
           {
-            "key": "website",
-            "label": "My Website",
-            "value": "https://woodland021.github.io"
-          },
-          {
-            "label": "Phone Number",
-            "key": "num",
-            "value": "415-858-3266"
+            "label": "Phone",
+            "key": "phone",
+            "value": "248-330-1915"
           },
           {
             "label": "Latest Project",
             "key": "proj",
             "value": "http://getbundler.io"
+          },
+          {
+            "label": "Background",
+            "key": "background",
+            "value": "https://www.linkedin.com/in/suffelman"
           }
         ],
         "secondaryFields" : [
             {
                 "key" : "info",
                 "label" : "Resume Info",
-                "value" : "Tap icon in lower right corner to see more info",
+                "value" : "Tap (i) in lower right.",
                 "textAlignment" : "PKTextAlignmentLeft"
             },
             {
                 "key" : "twitter",
                 "label" : "Twitter",
-                "value" : "@ethan021021"
+                "value" : "@uffel"
             }
         ],
         "auxiliaryFields" : [
             {
                 "key" : "email",
                 "label" : "Email",
-                "value" : "ethan021@me.com"
+                "value" : "steve@uffelman.co"
             }
         ]
     },
