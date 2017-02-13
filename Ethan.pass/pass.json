@@ -1,0 +1,64 @@
+{
+    "formatVersion" : 1,
+    "passTypeIdentifier" : "pass.io.woodland021.businesscard",
+    "organizationName" : "Bundler",
+    "serialNumber" : "0x1337",
+    "teamIdentifier" : "M68K5K6P9P",
+    "description" : "Ethan Thomas",
+    "generic" : {
+        "primaryFields" : [
+            {
+                "key" : "name",
+                "label" : "",
+                "value" : "iOS / Web Developer"
+            }
+        ],
+        "backFields": [
+          {
+            "key": "website",
+            "label": "My Website",
+            "value": "https://woodland021.github.io"
+          },
+          {
+            "label": "Phone Number",
+            "key": "num",
+            "value": "415-858-3266"
+          },
+          {
+            "label": "Latest Project",
+            "key": "proj",
+            "value": "http://getbundler.io"
+          }
+        ],
+        "secondaryFields" : [
+            {
+                "key" : "info",
+                "label" : "Resume Info",
+                "value" : "Tap icon in lower right corner to see more info",
+                "textAlignment" : "PKTextAlignmentLeft"
+            },
+            {
+                "key" : "twitter",
+                "label" : "Twitter",
+                "value" : "@ethan021021"
+            }
+        ],
+        "auxiliaryFields" : [
+            {
+                "key" : "email",
+                "label" : "Email",
+                "value" : "ethan021@me.com"
+            }
+        ]
+    },
+    "barcode" : {
+        "format" : "PKBarcodeFormatPDF417",
+        "message" : "https://woodland021.github.io/BusinessCards/Ethan.pkpass",
+        "messageEncoding" : "iso-8859-1"
+    },
+    "backgroundColor" : "RGB(123, 114, 181)",
+    "foregroundColor" : "rgb(255, 255, 255)",
+    "labelColor" : "rgb(255, 255, 255)",
+    "logoText" : "Ethan Thomas",
+    "suppressStripShine" : false
+}
