@@ -15,6 +15,11 @@
         ],
         "backFields": [
           {
+            "label": "Link to my Resume",
+            "key": "resume",
+            "value": "https://woodland021.github.io/Resumes/ethan.pdf"
+          },
+          {
             "key": "website",
             "label": "My Website",
             "value": "https://woodland021.github.io"
